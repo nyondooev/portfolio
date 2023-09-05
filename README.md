@@ -122,10 +122,10 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### :flashlight: 구현 기능 상세설명
-1. [카카오 로그인 api](https://github.com/nyondoo/momoa#51-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-api)
-2. [회원가입 기능](https://github.com/nyondoo/momoa#52-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
-3. [가계부 그래프 데이터 가공](https://github.com/nyondoo/momoa#53-%EA%B0%80%EA%B3%84%EB%B6%80-%EA%B7%B8%EB%9E%98%ED%94%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5)
-4. [가계부 공유 및 관련 기능](https://github.com/nyondoo/momoa#54-%EA%B0%80%EA%B3%84%EB%B6%80-%EA%B3%B5%EC%9C%A0-%EC%8A%B9%EC%9D%B8%EA%B1%B0%EC%A0%88-%EC%B2%98%EB%A6%AC)
+1. [카카오 로그인 api](https://github.com/nyondooev/momoa#51-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-api)
+2. [회원가입 기능](https://github.com/nyondooev/momoa#52-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
+3. [가계부 그래프 데이터 가공](https://github.com/nyondooev/momoa#53-%EA%B0%80%EA%B3%84%EB%B6%80-%EA%B7%B8%EB%9E%98%ED%94%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5)
+4. [가계부 공유 및 관련 기능](https://github.com/nyondooev/momoa#54-%EA%B0%80%EA%B3%84%EB%B6%80-%EA%B3%B5%EC%9C%A0-%EC%8A%B9%EC%9D%B8%EA%B1%B0%EC%A0%88-%EC%B2%98%EB%A6%AC)
 
 </br>
 
