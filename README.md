@@ -76,7 +76,7 @@ gitHub: https://github.com/nyondoo
 >
 >#### `개발 기간`  2023.02.11 ~ 2023.02.25 
 >
->#### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/momoa) 보러가기 👈 
+>#### :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/momoa) 보러가기 👈 
 
 </br>
 
@@ -129,7 +129,7 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/momoa) 보러가기 👈
+### :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/momoa) 보러가기 👈
 
 </br>
 
@@ -141,7 +141,7 @@ gitHub: https://github.com/nyondoo
 > 
 >####  `개발 기간` 2023.01.28 ~ 2023.02.04  
 >  
->####  :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/Check-Work) 보러가기 👈 
+>####  :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/CheckWork) 보러가기 👈 
 >
 
 </br>
@@ -180,7 +180,7 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/Check-Work)  👈 참고 
+### :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/CheckWork)  👈 참고 
 
 </br>
 
@@ -192,7 +192,7 @@ gitHub: https://github.com/nyondoo
 > 
 >####  `개발 기간` 2022.12.08 ~ 2022.12.29
 >  
->####  :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 보러가기 👈 
+>####  :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/MileEASY) 보러가기 👈 
 >
 
 </br>
@@ -243,7 +243,7 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git)  👈 참고 
+### :point_right: [프로젝트 상세 설명](https://github.com/nyondooev/MileEASY)  👈 참고 
 
 </br>
 
