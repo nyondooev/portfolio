@@ -57,8 +57,8 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ## :open_file_folder: Projects
-### 진행 중인 프로젝트
-### Turtleneck-Knitter
+
+### 0. Turtleneck-Knitter (진행 중)
 >
 >#### `프로젝트 개요`  실제 개인 뜨개 브랜드인 '터틀넥 니터'의 쇼핑몰 사이트 (개인 프로젝트)
 >
@@ -68,7 +68,6 @@ gitHub: https://github.com/nyondoo
 
 ---
 
-### 완료 프로젝트
 
 ### 1. [Momoa](http://43.201.17.158:3001) 
 >
