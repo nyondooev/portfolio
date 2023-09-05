@@ -66,6 +66,13 @@ gitHub: https://github.com/nyondoo
 >
 >#### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/momoa) 보러가기 👈
 
+</br>
+
+### :hammer:사용 기술  
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
 ---
 
 
