@@ -52,6 +52,8 @@ Email: nyondooev@gmail.com
 
 gitHub: https://github.com/nyondooev
 
+Blog: https://velog.io/@nyondoo
+
 </br>
 </div>
 </br>
