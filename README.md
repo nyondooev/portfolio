@@ -238,8 +238,8 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### :flashlight: 구현 기능 상세설명
-1. [MBTI 테스트](https://github.com/nyondoo/mileeasy#51-mbti-%ED%85%8C%EC%8A%A4%ED%8A%B8)
-2. [방명록 (유저간 여행지 추천)](https://github.com/nyondoo/mileeasy#52-%EB%B0%A9%EB%AA%85%EB%A1%9D-%EC%9C%A0%EC%A0%80%EA%B0%84-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C)
+1. [MBTI 테스트](https://github.com/nyondooev/mileeasy#51-mbti-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+2. [방명록 (유저간 여행지 추천)](https://github.com/nyondooev/mileeasy#52-%EB%B0%A9%EB%AA%85%EB%A1%9D-%EC%9C%A0%EC%A0%80%EA%B0%84-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C)
 
 </br>
 
