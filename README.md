@@ -67,7 +67,7 @@ Blog: https://velog.io/@nyondoo
 >
 >#### `개발 기간`  2023.09.01 ~
 >
->#### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/momoa) 보러가기 👈
+>#### :point_right: [프로젝트 Git 저장소](https://github.com/nyondooev/turtleneck-knitter) 보러가기 👈
 
 </br>
 
